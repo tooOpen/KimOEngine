@@ -1,4 +1,5 @@
 
+
 function doorSprite() {
     this.x = 0;
     this.y = 0;
@@ -6,8 +7,8 @@ function doorSprite() {
     this.top = 0;
     this.localLeft = 0;
     this.localTop = 0;
-    this.openPainter = new ImagePainter(openDoorSrc);
-    this.closePainter = new ImagePainter(closedDoorSrc);
+    this.openPainter = new ImagePainter('http://tooopen.github.io/KimOEngine/images/openGate.png');
+    this.closePainter = new ImagePainter('http://tooopen.github.io/KimOEngine/images/cloesedGate.png');
     this.doorsprite = new Sprite(this.id, this.closePainter);
     this.Init();
 };
