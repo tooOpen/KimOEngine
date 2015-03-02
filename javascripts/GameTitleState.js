@@ -1,5 +1,12 @@
 function GameTitleState(fileName) {
+    if(fileName == 'undefined')
+    {
+    this.titleName = 'http://tooopen.github.io/KimOEngine/images/title.jpg';
+    }
+    else
+    {
     this.titleName = fileName;
+    }
     this.blink = false;
 }
 GameTitleState.prototype = {
