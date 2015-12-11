@@ -9,3 +9,5 @@
 개발언어 javascript
 
 개발툴 Aptana studio
+
+Youtube : https://www.youtube.com/watch?v=mpGMdYqs_1E
