@@ -1,13 +1,27 @@
+![kimchinity](http://cfile7.uf.tistory.com/image/27440441567CEA4019ED04)
+
 # Kimchinity HTML5 Canvas game engine
 
-개발인원 3 명 본인역할 javascript game engine개발, 기획
+   * Kimchinity is Web 2D Game developing Tool. 
+   * Users can make games only using Simple Drag and Drop and several click.
+   * Tool is made by WPF and also use IOCP server for developing by two people at the same time
+   * output game is Web game. HTML5 CAVAS game engine restruct parameter data and makes game. 
+   * we also provide connect game function, connect between totally different two games.
+   * this repository include only HTML5 CANVAS game engine.
+ 
+  ![kimchinity](http://cfile23.uf.tistory.com/image/2249D74C567BF4C319BEBD)
+  ![kimchinity](http://cfile23.uf.tistory.com/image/2144D94C567BF4C521FC79)
 
-개발기간 2014.11 ~ 2015.2
+  # Links to the Game Video Youtube
+ 
+   * https://www.youtube.com/watch?v=mpGMdYqs_1E
+ 
+  # Frameworks and tools
+ 
+   * Aptana studio http://www.aptana.com/products/studio3/download.html
+   * HTML5 CANVAS http://www.w3schools.com/tags/ref_canvas.asp
+ 
+  # Contact & More Information
+   * http://bsh0608.tistory.com/entry/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-Kimchinity
 
-개발환경 Windows, Web
 
-개발언어 javascript
-
-개발툴 Aptana studio
-
-Youtube : https://www.youtube.com/watch?v=mpGMdYqs_1E
